@@ -13,4 +13,3 @@ Dive into The Lost Arcane, a Unity-crafted offline adventure. Level up, enhance 
 ![Inventory](https://github.com/xMeliiodaS/The-Lost-Arcane-Game/assets/127980746/9cbdfa70-3af1-4f84-8cdc-0d6a6cdbc831)
 ![Equipemtns](https://github.com/xMeliiodaS/The-Lost-Arcane-Game/assets/127980746/fa251f28-638b-4b23-889d-5b008383f0be)
 ![Skills](https://github.com/xMeliiodaS/The-Lost-Arcane-Game/assets/127980746/95f7b5cd-3ae0-4df9-916f-de0df9409472)
-![Quest](https://github.com/xMeliiodaS/The-Lost-Arcane-Game/assets/127980746/0a026fd1-44e3-45f4-b867-57449f62e0df)
