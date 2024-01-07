@@ -3,6 +3,11 @@ This repository is dedicated to code-only inclusion due to the substantial size 
 
 Dive into The Lost Arcane, a Unity-crafted offline adventure. Level up, enhance skills, and conquer quests in a rich storyline. Face mobs and bosses, making every choice count in this immersive gaming experience.
 
+<br><br><br>
+<p align="center">
+  <b>Your Centered Text Goes Here</b>
+</p><br><br><br>
+
 ![lobby](https://github.com/xMeliiodaS/The-Lost-Arcane-Game/assets/127980746/9a5677b7-235d-40ab-b3e9-448ed50a8232)
 The player starts in the main lobby where they can:<br>
 - start a new game.<br>
