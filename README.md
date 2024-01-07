@@ -39,6 +39,16 @@ Upon pressing the 'START' button, seamlessly journey back to the last scene, equ
 
 ![Quest](https://github.com/xMeliiodaS/The-Lost-Arcane-Game/assets/127980746/310fd378-a630-48e6-a61d-000b2600ee44)
 
+<p align="center">
+  <strong>Quests and interactions with NPCs. navigate our game world with purpose through a quest system. NPCs marked on the map or above their heads offer quests, enriching your adventure:
+</strong>
+</p>
+
+- Mission acquisition: Locate NPCs marked on the map. Interact with them to initiate missions.
+- Starting a mission: Participate in dialogues to learn mission details. Get missions to go on challenges.
+- Mission Progress: Track quest objectives in your journal. Complete tasks such as defeating enemies or collecting items.
+- Completion and rewards: Every time you complete the task the player receives an EXP reward
+
 <br><br><br><br><br>
 
 ![Settings](https://github.com/xMeliiodaS/The-Lost-Arcane-Game/assets/127980746/5af2b2a9-2000-44ea-aa3b-0d53a36a833a)
