@@ -71,9 +71,27 @@ The player can pickup items from the ground by pressing "E".
 
 
 ![Inventory](https://github.com/xMeliiodaS/The-Lost-Arcane-Game/assets/127980746/9cbdfa70-3af1-4f84-8cdc-0d6a6cdbc831)
+
+Hover over the item to see its name, description and stats.
+
 <br><br><br><br><br>
 
 ![Skills](https://github.com/xMeliiodaS/The-Lost-Arcane-Game/assets/127980746/95f7b5cd-3ae0-4df9-916f-de0df9409472)
+
+<p align="center">
+  <strong>Mastery of Skills and Abilities
+</strong>
+</p>
+In the world of Vikings and magic, your skills and abilities are the essence of your prowess. Unlocking and improving these talents can turn the tide of battle in your favor. Here's how to navigate the field of skills and abilities:<br>
+- Accessing the Skills Menu: Open the Skills and Abilities menu by pressing the K button, where you'll find a selection of available powers waiting to be harnessed.
+
+![drags](https://github.com/xMeliiodaS/The-Lost-Arcane-Game/assets/127980746/e03ed206-d2d6-475a-96f9-e9ee826d5362)
+<p align="center">
+  <strong>Drag and Drop Customization
+</strong>
+</p>
+
+- Channel your inner strategist by choosing skills and abilities that suit your playstyle. Drag the selected skill icons to the hotkey slots of your preference.
 
 <br><br><br><br><br>
 
