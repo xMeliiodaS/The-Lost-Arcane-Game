@@ -5,7 +5,7 @@ Dive into The Lost Arcane, a Unity-crafted offline adventure. Level up, enhance 
 
 <br><br><br>
 
-<p align="center" color="red">
+<p align="center" style="font-size: 3rem;">
   <strong>Immerse yourself in the game with these captivating in-game images.</strong>
 </p>
 
