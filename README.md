@@ -26,7 +26,7 @@ Game Loader: If you have previously saved your progress, select this option to c
 <br><br><br><br><br>
 
 ![EnterCharName](https://github.com/xMeliiodaS/The-Lost-Arcane-Game/assets/127980746/73d9209c-fe94-47d9-9157-a7c1da9983ea)
-By entering a new game the player must choose a character:<br>
+By entering a new game the player must choose a character. 
 Each character has its own unique stats, after pressing the "choose" button the user should enter a name for the character.
 The name should not be used before.
 
@@ -34,8 +34,8 @@ The name should not be used before.
 <br><br><br><br><br>
 
 ![LoadGames](https://github.com/xMeliiodaS/The-Lost-Arcane-Game/assets/127980746/77843c44-bcf6-4577-b16c-2b8106200d95)
-
-<br><br><br><br><br>
+In this page the user can see all of the saved games. When he wants to continue previously saved game he can click on the "START" button.<br>
+Upon pressing the 'START' button, seamlessly journey back to the last scene, equipped with all your stats, inventory, and the items you were wearing—ready to pick up right where you left off.<br><br><br><br><br>
 
 ![Quest](https://github.com/xMeliiodaS/The-Lost-Arcane-Game/assets/127980746/310fd378-a630-48e6-a61d-000b2600ee44)
 
