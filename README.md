@@ -85,6 +85,8 @@ Hover over the item to see its name, description and stats.
 In the world of Vikings and magic, your skills and abilities are the essence of your prowess. Unlocking and improving these talents can turn the tide of battle in your favor. Here's how to navigate the field of skills and abilities:<br>
 - Accessing the Skills Menu: Open the Skills and Abilities menu by pressing the K button, where you'll find a selection of available powers waiting to be harnessed.
 
+<br><br><br><br><br>
+
 ![drags](https://github.com/xMeliiodaS/The-Lost-Arcane-Game/assets/127980746/e03ed206-d2d6-475a-96f9-e9ee826d5362)
 <p align="center">
   <strong>Drag and Drop Customization
