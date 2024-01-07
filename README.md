@@ -1,5 +1,5 @@
 # The-Lost-Arcane-Game
-This only includes the Codes.
+This repository is dedicated to code-only inclusion due to the substantial size of game assets, ensuring a streamlined and manageable experience for users and potential employers
 
 Dive into The Lost Arcane, a Unity-crafted offline adventure. Level up, enhance skills, and conquer quests in a rich storyline. Face mobs and bosses, making every choice count in this immersive gaming experience.
 
