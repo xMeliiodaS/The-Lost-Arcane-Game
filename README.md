@@ -53,14 +53,24 @@ Upon pressing the 'START' button, seamlessly journey back to the last scene, equ
 
 ![Settings](https://github.com/xMeliiodaS/The-Lost-Arcane-Game/assets/127980746/5af2b2a9-2000-44ea-aa3b-0d53a36a833a)
 
-<br><br><br><br><br>
-
-![Inventory](https://github.com/xMeliiodaS/The-Lost-Arcane-Game/assets/127980746/9cbdfa70-3af1-4f84-8cdc-0d6a6cdbc831)
+Access this section to customize the game settings to your preferences. Adjust the graphics and audio
 
 <br><br><br><br><br>
 
 ![Equipemtns](https://github.com/xMeliiodaS/The-Lost-Arcane-Game/assets/127980746/fa251f28-638b-4b23-889d-5b008383f0be)
 
+<p align="center">
+  <strong>Manage your inventory
+</strong>
+</p>
+
+Access your inventory screen by pressing I to see the items you've collected. Here you can examine, equip or use items as needed. The player can equip an item by clicking on it.
+The player can pickup items from the ground by pressing "E".
+
+<br><br><br><br><br>
+
+
+![Inventory](https://github.com/xMeliiodaS/The-Lost-Arcane-Game/assets/127980746/9cbdfa70-3af1-4f84-8cdc-0d6a6cdbc831)
 <br><br><br><br><br>
 
 ![Skills](https://github.com/xMeliiodaS/The-Lost-Arcane-Game/assets/127980746/95f7b5cd-3ae0-4df9-916f-de0df9409472)
